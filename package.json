@@ -1,7 +1,7 @@
 {
   "name": "data-analytics-api",
   "version": "1.0.0",
-  "description": "An API to handle tracking information to be handled by an analytics POC",
+  "description": "An API to handle tracking information to be rendered by an analytics POC",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
